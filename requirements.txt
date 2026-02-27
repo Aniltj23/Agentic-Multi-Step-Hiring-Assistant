@@ -1,0 +1,8 @@
+streamlit
+langchain
+langgraph
+langchain-core
+langchain-groq
+pdfplumber
+dotenv
+typing
